@@ -1,0 +1,12 @@
+
+p{
+    color:black;
+}
+
+
+
+.col, .row, .card{
+    width: 10;
+    height: auto;
+    border-color: black;
+  }
